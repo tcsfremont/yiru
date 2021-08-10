@@ -1,0 +1,7 @@
+import sys
+
+print(range(10))
+
+for index in range(len(sys.argv)):
+
+    pass
